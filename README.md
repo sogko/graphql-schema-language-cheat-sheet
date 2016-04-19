@@ -1,4 +1,4 @@
-# GraphQL Shorthand Notation Cheat Sheet
+# GraphQL Schema Language Cheat Sheet
 _The definitive guide to express your GraphQL schema succinctly_
 
 Original article available at: https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6
@@ -11,4 +11,9 @@ Original article available at: https://wehavefaces.net/graphql-shorthand-notatio
 - [PNG](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
 ## Release notes
-18 Apr 2016 - First draft release
+__19 Apr 2016__
+ - Updated title to "GraphQL Schema Language Cheat Sheet", as advised by @leeb
+ - Updated `enum` example
+
+__18 Apr 2016__
+- First draft release
