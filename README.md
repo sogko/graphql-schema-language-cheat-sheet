@@ -11,6 +11,9 @@ Original article available at: https://wehavefaces.net/graphql-shorthand-notatio
 - [PNG](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
 
 ## Release notes
+__10 Jun 2016__
+ - Fixes issue [#1](https://github.com/sogko/graphql-shorthand-notation-cheat-sheet/issues/1): `[Users]` should be `[User]`
+ 
 __19 Apr 2016__
  - Updated title to "GraphQL Schema Language Cheat Sheet", as advised by @leeb
  - Updated `enum` example
